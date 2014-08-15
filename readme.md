@@ -6,4 +6,4 @@ CSS for markdown parsed HTML.
 
 ## License
 
-Public domain
+MIT
