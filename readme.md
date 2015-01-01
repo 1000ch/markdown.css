@@ -6,4 +6,4 @@ CSS for markdown parsed HTML.
 
 ## License
 
-MIT
+MIT: http://1000ch.mit-license.org
